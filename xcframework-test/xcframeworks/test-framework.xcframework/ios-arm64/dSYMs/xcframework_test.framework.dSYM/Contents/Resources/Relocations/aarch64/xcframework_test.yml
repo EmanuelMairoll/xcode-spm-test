@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/emanuel/Library/Developer/Xcode/DerivedData/xcframework-test-asgwxjhllytabjbjpcvvsioqemko/Build/Intermediates.noindex/ArchiveIntermediates/xcframework-test/InstallationBuildProductsLocation/Library/Frameworks/xcframework_test.framework/xcframework_test'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2DFD9, size: 0x8, addend: 0x0, symName: _xcframework_testVersionString, symObjAddr: 0x0, symBinAddr: 0x40F0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E00E, size: 0x8, addend: 0x0, symName: _xcframework_testVersionNumber, symObjAddr: 0x40, symBinAddr: 0x4130, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x2E04B, size: 0x8, addend: 0x0, symName: '_$s16xcframework_test12someFunctionyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x60, offset: 0x2E084, size: 0x8, addend: 0x0, symName: '_$s16xcframework_test12someFunctionyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0xD3, offset: 0x2E0F7, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x40 }
+...

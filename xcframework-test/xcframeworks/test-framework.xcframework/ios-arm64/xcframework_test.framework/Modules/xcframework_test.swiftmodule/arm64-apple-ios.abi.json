@@ -1,0 +1,46 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "xcframework_test"
+      },
+      {
+        "kind": "Function",
+        "name": "someFunction",
+        "printedName": "someFunction()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:16xcframework_test12someFunctionyyF",
+        "mangledName": "$s16xcframework_test12someFunctionyyF",
+        "moduleName": "xcframework_test",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/emanuel\/Library\/Mobile Documents\/com~apple~CloudDocs\/AV\/Projekte\/xcode-spm-test\/xcframework-test\/xcframework-test\/Test.swift",
+      "kind": "StringLiteral",
+      "offset": 58,
+      "length": 18,
+      "value": "\"Hello Framework!\""
+    }
+  ]
+}
